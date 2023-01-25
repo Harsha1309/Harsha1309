@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Yadav</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="Coding" width="300"  src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align="right" alt="Coding" width="200"  src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsha1309&label=Profile%20views&color=0e75b6&style=flat" alt="harsha1309" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsha1309" alt="harsha1309" /></a> </p>
@@ -22,7 +22,7 @@
 <a href="https://instagram.com/harsha_1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsha_1309" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harsha_1393" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harsha_1393" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harshyadav1393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshyadav1393" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshyadav 1393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshyadav 1393" height="30" width="40" /></a>
+<a href="https://leetcode.com/harshyadav1393/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshyadav 1393" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/harshyadav1393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshyadav1393" height="30" width="40" /></a>
 </p>
 
